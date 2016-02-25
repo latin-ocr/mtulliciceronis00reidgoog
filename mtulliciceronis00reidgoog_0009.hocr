@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliciceronis00reidgoog_0009.png"; bbox 0 0 3038 4876; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 461 2507 924 2617">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 461 2507 924 2617">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 2507 924 2550; baseline 0.006 -12"><span class='ocrx_word' id='word_1_1' title='bbox 461 2508 563 2538; x_wconf 71' lang='lat' dir='ltr'><strong>mum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 579 2508 608 2538; x_wconf 83' lang='grc' dir='ltr'><strong>ΙΥ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 624 2509 644 2539; x_wconf 70' lang='grc' dir='ltr'><strong>Ε,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 663 2508 683 2548; x_wconf 74' lang='lat'><strong>1·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 696 2509 763 2550; x_wconf 73' lang='grc' dir='ltr'><strong>ΕιΛΥ,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 781 2510 830 2540; x_wconf 70' lang='lat' dir='ltr'><strong>m.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 847 2507 860 2538; x_wconf 61' lang='lat' dir='ltr'><strong><em>l</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 874 2511 924 2550; x_wconf 74' lang='grc' dir='ltr'><strong>δΟΝ,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 528 2580 860 2617; baseline 0.012 -4"><span class='ocrx_word' id='word_1_9' title='bbox 528 2580 560 2614; x_wconf 69' lang='lat' dir='ltr'><strong>AT</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 573 2583 622 2614; x_wconf 80' lang='grc' dir='ltr'><strong>ΤΗΙ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 636 2584 774 2617; x_wconf 69' lang='lat' dir='ltr'><strong>umvmlrv</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 788 2586 860 2617; x_wconf 66' lang='lat' dir='ltr'>mass.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1524 4876">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1524 4876">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1524 4876; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1524 4876; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
